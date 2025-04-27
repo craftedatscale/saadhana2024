@@ -1,0 +1,11 @@
+id: "sponsors2025"
+title: "Our esteemed sponsors"
+style: "style1 small"
+content: |
+  
+pictures:
+  - thumb: "images/gallery/thumbs/ntpc.jpg"
+    
+  - thumb: "images/gallery/thumbs/ks.jpg"
+    
+  - thumb: "images/gallery/thumbs/fnp.jpg"

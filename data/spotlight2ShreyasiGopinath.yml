@@ -1,0 +1,14 @@
+####################### Spotlight #########################
+style: "style2 orient-right content-align-left image-position-right onscroll-image-fade-in"
+id : "shreyasi-gopinath"
+title : "Shreyasi Gopinath"
+content: |
+  Shreyasi's aim is to <strong>preserve and promote India's diverse cultural traditions</strong> through her <strong>performances and teaching</strong>, and to cultivate a community that not only produces exceptional dancers but also well-rounded individuals who carry the <strong>values of teamwork, respect and perseverance</strong> into their lives.<br>
+  <br>
+  A Bharatanatyam dancer, teacher and choreographer from New Delhi, India, Shreyasi began her formal training at age 7 with <strong>Guru Padma Bhushan Dr. Saroja Vaidyanathan</strong>.<br>
+  <br>
+  At 15, she joined Kalakshetra Foundation for intensive training. After six years of learning under renowned Gurus and earning a Post-Graduate Diploma, she returned to New Delhi, to continue her learning under <strong>late Guru Jamuna Krishnan</strong>.
+button: 
+  label: "Learn more"
+  link: "#SGDA"
+image: "images/spotlight2-shreyasi-gopinath.jpg"

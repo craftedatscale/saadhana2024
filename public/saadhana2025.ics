@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+LAST-MODIFIED:20240422T053450Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZNAME:IST
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20250427T071146Z
+UID:1745737850129-50227@ical.marudot.com
+DTSTART;TZID=Asia/Kolkata:20250517T180000
+DTEND;TZID=Asia/Kolkata:20250517T203000
+SUMMARY:Saadhana 2025\, by Shreyasi Gopinath Dance Academy
+URL:http://saadhana2025.sgda.in
+DESCRIPTION:Dear friend\,\nGreetings from Shreyasi!\n\nPlease join us for Saadhana 2025 at the CD Deshmukh Auditorium\, India International Centre\, Max Mueller Marg\, on 17th May\, 2025\, at 6pm.\n\nNow in its fourth edition\, Saadhana is the signature annual event of the Shreyasi Gopinath Dance Academy. The festival features performances that showcase stories from our mythology\, with oral narrative transformed using music and dance as a form of expression.\n\nSaadhana\, meaning a dedicated and disciplined way of learning\, also means practice\, hard work\, resilience and single-mindedness\, attributes that will be incorporated in the performances.\n\nWe look forward to having you there.\n\nBest wishes\,\nShreyasi and Team SGDA
+LOCATION:C. D. Deshmukh Auditorium\, 40\, Max Mueller Marg\, Lodhi Gardens\, Lodhi Estate\, New Delhi\, Delhi 110003\, India
+CLASS:PRIVATE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Saadhana 2025, by Shreyasi Gopinath Dance Academy
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Saadhana 2025, by Shreyasi Gopinath Dance Academy
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

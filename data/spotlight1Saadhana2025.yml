@@ -1,0 +1,13 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center on-scroll-image-fade-in"
+id: "sgda"
+title : "Saadhana 2025"
+content: |
+  Now in its fourth edition, <strong>Saadhana</strong> is the signature annual event of the <strong>Shreyasi Gopinath Dance Academy</strong>. The festival features performances that showcase stories from our mythology, with oral narrative transformed using music and dance as a form of expression.<br>
+  <br>
+  <i>Saadhana</i>, meaning a dedicated and disciplined way of learning, also means practice, hard work, resilience and single-mindedness, attributes that will be incorporated in the performances.<br>  
+button: 
+  label: "Learn More"
+  link: "#shreyasi-gopinath"
+  class: "primary"
+image: "images/spotlight1-sgda-winter-2024-group-photo.jpg"

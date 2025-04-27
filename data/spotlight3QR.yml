@@ -1,0 +1,12 @@
+####################### Spotlight #########################
+style: "style3 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "join-us-at-saadhana-2025"
+title : "Confirm your presence at Saadhana 2025!"
+content: |
+  <h1>Scan the QR to block your ticket</h1>
+  
+button: 
+  label: "Relive Saadhana 2024 📷"
+  link: "#saadhana2024"
+
+image: "images/spotlight3-QR-code-testsubjectalpha@okhdfcbank.jpg"

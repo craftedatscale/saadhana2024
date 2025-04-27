@@ -1,0 +1,46 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "Saadhana 2025, by Shreyasi Gopinath Dance Academy"
+copyright = "{year}"
+
+## -----------------------------------------------
+## Publish
+## -----------------------------------------------
+
+relativeURLs = "true"
+#canonifyURLs = "true"
+
+# Local
+baseURL = "/"
+publishDir = "public"
+
+# Remote
+#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
+#publishDir = "//centos/sites/hugodev/hugostory/"
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "section"]
+# googleAnalytics = "G-XXXXXXXXXX"
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = ""
+  logo = "images/banner.jpg"
+  favicon = true
+
+[Params.social]
+  email = "gopinathshreyasi@yahoo.co.in"
+  instagram = "https://instagram.com/the_dance_atelier"
+  whatsapp = "https://api.whatsapp.com/send?phone=919818689428"
+
+[Params.asset]
+  fontawesome_css = ["css/fontawesome-all.min.css"]
+  fontawesome_js = ["js/fontawesome-all.min.js"]
