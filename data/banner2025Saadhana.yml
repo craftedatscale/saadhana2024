@@ -1,7 +1,8 @@
 ####################### Banner #########################
 style: "style1 orient-right content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "May 17 - Save The Date!"
+title : ""
 subtitle: |
+  <h2>May 17 - Save The Date!</h2>
   <strong>Shreyasi Gopinath Dance Academy</strong> is pleased to announce the <strong>2025 edition of Saadhana</strong>, our annual festival.
 content : |
   Join us at <strong>CD Deshmukh Auditorium, India International Centre</strong>, New Delhi on <strong>17th May, 2025 at 6pm</strong>!<br>
