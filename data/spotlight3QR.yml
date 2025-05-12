@@ -3,7 +3,7 @@ style: "style3 orient-left content-align-left image-position-center onscroll-ima
 id: "join-us-at-saadhana-2025"
 title : "Confirm your presence at Saadhana 2025!"
 content: |
-  <h1>Scan the QR to block your ticket</h1>
+  <h1>Scan the QR to book your ticket</h1>
   
 button: 
   label: "Relive Saadhana 2024 📷"
