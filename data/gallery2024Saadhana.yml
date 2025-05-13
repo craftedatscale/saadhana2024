@@ -4,16 +4,22 @@ style: "style1 small lightbox onload-fade-in onscroll-fade-in"
 content: |
   
 pictures:
-  - title: " "
-    content: " "
+  - title: ""
+    content: ""
     image: "images/gallery/fulls/01-DSC_5979.jpg"
     thumb: "images/gallery/thumbs/th-01-DSC_5979.jpg"
     button: "🔎"
 
-  - title: " "
-    content: " "
+  - title: ""
+    content: ""
     image: "images/gallery/fulls/02-DSC_5986.jpg"
     thumb: "images/gallery/thumbs/th-02-DSC_5986.jpg"
+    button: "🔎"
+    
+  - title: ""
+    content: ""
+    image: "images/gallery/fulls/02a-DSC_5952.jpg"
+    thumb: "images/gallery/thumbs/th-02a-DSC_5952.jpg"
     button: "🔎"
 
   - title: ""
@@ -135,13 +141,7 @@ pictures:
     image: "images/gallery/fulls/22-DSC_7475.jpg"
     thumb: "images/gallery/thumbs/th-22-DSC_7475.jpg"
     button: "🔎"
-    
-  - title: ""
-    content: ""
-    image: "images/gallery/fulls/23-DSC_7480.jpg"
-    thumb: "images/gallery/thumbs/th-23-DSC_7480.jpg"
-    button: "🔎"
-    
+        
   - title: ""
     content: ""
     image: "images/gallery/fulls/24-DSC_7362.jpg"

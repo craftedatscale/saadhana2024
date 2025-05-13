@@ -4,10 +4,14 @@ style: "style1 small"
 content: |
   
 pictures:
-  - thumb: "images/gallery/thumbs/ntpc.jpg"
+  - thumb: "images/gallery/thumbs/sp-ntpc.jpg"
     
-  - thumb: "images/gallery/thumbs/kumaran-silks.jpg"
+  - thumb: "images/gallery/thumbs/sp-kumaran-silks.jpg"
     
-  - thumb: "images/gallery/thumbs/bookswagon.jpeg"
+  - thumb: "images/gallery/thumbs/sp-bookswagon.jpeg"
   
   - thumb: "images/gallery/thumbs/hri.jpeg"
+  
+  - thumb: "images/gallery/thumbs/sp-purple-dreams.png"
+  
+  - thumb: "images/gallery/thumbs/sp-kvmtrust.png"
