@@ -4,6 +4,15 @@ style: "style2 medium"
 content: |
   
 pictures:
+
   - thumb: "images/gallery/thumbs/sp-2025-ntpc50.png"
+    button: "Presenting Partner"
     
   - thumb: "images/gallery/thumbs/sp-2025-indianoil.jpg"
+    button: "Presenting Partner"
+  
+  - thumb: "images/gallery/thumbs/sp-2025-accessorize-with-ruhnaal.jpg"
+    button: "Gifting Partner"
+  
+  - thumb: "images/gallery/thumbs/sp-2025-kvm-trust.jpg"
+    button: "Regional Outreach Partner"

@@ -3,7 +3,9 @@ style: "style3 orient-left content-align-left image-position-center onscroll-ima
 id: "join-us-at-saadhana-2025"
 title : "Confirm your presence at Saadhana 2025!"
 content: |
-  <h3>Scan the QR or click <u><a target="_blank" href="https://www.district.in/events/saadhana-indian-classical-dance-festival-may17-2025-buy-tickets">this link</a></u> to book your ticket via District.in</h3>
+  <h3>Scan the QR code or click <u><a target="_blank" href="https://www.district.in/events/saadhana-indian-classical-dance-festival-may17-2025-buy-tickets">this link</a></u> to book your ticket via District.in<br />
+  <br />
+  <u><a target=_blank" href="https://instagram.com/the_dance_atelier">Follow us on Instagram</a></u> and don't forget to add <strong>#BharatanatyamLove</strong>, <strong>#saadhana</strong> and <strong>#sgda</strong> to your photos!</h3>
   
 button: 
   label: "Relive Saadhana 2024 📷"
