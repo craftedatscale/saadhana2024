@@ -5,14 +5,22 @@ content: |
   
 pictures:
 
-  - thumb: "images/gallery/thumbs/sp-2025-ntpc50.png"
-    button: "Presenting Partner"
+  - title: "Presenting Partner"
+    image: "https://ntpc.co.in/" 
+    thumb: "images/gallery/thumbs/sp-2025-ntpc50.png"
+    button: "🌐"
     
-  - thumb: "images/gallery/thumbs/sp-2025-indianoil.jpg"
-    button: "Presenting Partner"
+  - title: "Presenting Partner"
+    image: "https://www.iocl.com/"
+    thumb: "images/gallery/thumbs/sp-2025-indianoil.jpg"
+    button: "🌐"
   
-  - thumb: "images/gallery/thumbs/sp-2025-accessorize-with-ruhnaal.jpg"
-    button: "Gifting Partner"
+  - title: "Gifting Partner"
+    image: "https://www.instagram.com/accessorize_with_ruhnaal/"
+    thumb: "images/gallery/thumbs/sp-2025-accessorize-with-ruhnaal.jpg"
+    button: "🌐"
   
-  - thumb: "images/gallery/thumbs/sp-2025-kvm-trust.jpg"
-    button: "Regional Outreach Partner"
+  - title: "Regional Outreach Partner"
+    image: "https://kvmtrust.com/"
+    thumb: "images/gallery/thumbs/sp-2025-kvm-trust.jpg"
+    button: "🌐"
