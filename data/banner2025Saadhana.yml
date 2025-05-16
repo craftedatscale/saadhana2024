@@ -9,7 +9,6 @@ content : |
   
   <ul class="actions">
       <li><a href="#join-us-at-saadhana-2025" class="button primary">Join us at Saadhana 2025</a></li>
-      <li><a target="_blank" class="button" href="saadhana2025.ics">🗓️ Save The Date</a></li>
   </ul>
 #button:
 #    label : "Join us"
