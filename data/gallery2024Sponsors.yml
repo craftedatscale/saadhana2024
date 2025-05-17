@@ -21,7 +21,9 @@ pictures:
     button: "🌐"
   
   - title: "Partner"
+    image: "#"
     thumb: "images/gallery/thumbs/sp-2024-HRI.jpg"
+    button: ""
   
   - title: "Gifting Partner"
     image: "https://www.purpledreams.in/"
