@@ -4,14 +4,31 @@ style: "style2 small"
 content: |
   
 pictures:
-  - thumb: "images/gallery/thumbs/sp-2024-ntpc.jpg"
+
+  - title: "Presenting Partner"
+    image: "https://ntpc.co.in"
+    thumb: "images/gallery/thumbs/sp-2024-ntpc.jpg"
+    button: "🌐"
     
-  - thumb: "images/gallery/thumbs/sp-2024-kumaran-silks.jpg"
+  - title: "Partner"
+    image: "https://www.kumaransilksonline.com"
+    thumb: "images/gallery/thumbs/sp-2024-kumaran-silks.jpg"
+    button: "🌐"
     
-  - thumb: "images/gallery/thumbs/sp-2025-bookswagon.png"
+  - title: "Partner"
+    image: "https://www.bookswagon.com"
+    thumb: "images/gallery/thumbs/sp-2025-bookswagon.png"
+    button: "🌐"
   
-  - thumb: "images/gallery/thumbs/sp-2024-HRI.jpg"
+  - title: "Partner"
+    thumb: "images/gallery/thumbs/sp-2024-HRI.jpg"
   
-  - thumb: "images/gallery/thumbs/sp-2024-purple-dreams.jpg"
+  - title: "Gifting Partner"
+    image: "https://www.purpledreams.in/"
+    thumb: "images/gallery/thumbs/sp-2024-purple-dreams.jpg"
+    button: "🌐"
   
-  - thumb: "images/gallery/thumbs/sp-2024-kvm-trust.jpg"
+  - title: "Regional Outreach Partner"
+    image: "https://kvmtrust.com/"
+    thumb: "images/gallery/thumbs/sp-2024-kvm-trust.jpg"
+    button: "🌐"
