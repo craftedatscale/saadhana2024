@@ -14,13 +14,13 @@ pictures:
     image: "https://www.iocl.com/"
     thumb: "images/gallery/thumbs/sp-2025-indianoil.jpg"
     button: "🌐"
-  
-  - title: "Gifting Partner"
-    image: "https://www.instagram.com/accessorize_with_ruhnaal/"
-    thumb: "images/gallery/thumbs/sp-2025-accessorize-with-ruhnaal.jpg"
-    button: "🌐"
-  
+
   - title: "Regional Outreach Partner"
     image: "https://kvmtrust.com/"
     thumb: "images/gallery/thumbs/sp-2025-kvm-trust.jpg"
+    button: "🌐"
+    
+  - title: "Gifting Partner"
+    image: "https://www.instagram.com/accessorize_with_ruhnaal/"
+    thumb: "images/gallery/thumbs/sp-2025-accessorize-with-ruhnaal.jpg"
     button: "🌐"
