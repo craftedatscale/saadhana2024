@@ -1,0 +1,13 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center on-scroll-image-fade-in"
+id: "sgda"
+title : "Saadhana 2024"
+content: |
+  Now in its third edition, <strong>Saadhana</strong> is the signature annual event of the <strong>Shreyasi Gopinath Dance Academy</strong>. The festival, held on 18th May, 2023, at New Delhi's <strong>India International Centre</strong>, featured performances that showcased stories from our mythology, with oral narrative transformed using music and dance as a form of expression.<br>
+  <br>
+  <i>Saadhana</i>, meaning a dedicated and disciplined way of learning, also means practice, hard work, resilience and single-mindedness, attributes incorporated in the performances.<br>  
+button: 
+  label: "Learn More"
+  link: "#shreyasi-gopinath"
+  class: "primary"
+image: "images/spotlight1-dsc5955-shot-from-low-of-sdna2024-stage.JPG"
